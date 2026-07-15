@@ -1,5 +1,7 @@
 # SKU Sleuth
 
+[![CI](https://github.com/charlielucas/sku-sleuth/actions/workflows/ci.yml/badge.svg)](https://github.com/charlielucas/sku-sleuth/actions/workflows/ci.yml)
+
 An interactive demonstration of a batch classification workflow with quality
 gates: messy synthetic product titles are decoded by a tiered engine, scored
 against a curated gold set, judged by declarative thresholds, and loaded into
