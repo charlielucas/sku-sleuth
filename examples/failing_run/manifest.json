@@ -1,0 +1,70 @@
+{
+  "batch_id": "7df926c41b5df5e44a7b8b07d6682984b434487f65daa973045378a2224e1e09",
+  "counts": {
+    "abstained": 26,
+    "decoded": 1145,
+    "errored": 0,
+    "quarantined": 29,
+    "total": 1200
+  },
+  "decode_schema_version": "1",
+  "decoded_sha256": "c4a8254a0e8b67498131a3f8d28e5a71c30baac3067d5fed5860e24fe0897f27",
+  "decoder_version": "2",
+  "identity": {
+    "configuration": {
+      "model": {
+        "adapter": "StubModel",
+        "deterministic": true,
+        "fixture_sha256": "9d0886e6de5927ed18499698609d583818155a14c230f4da2709894e5bfa193b"
+      },
+      "ruleset": "naive"
+    },
+    "contract": {
+      "decode_schema_version": "1",
+      "decoder_version": "2",
+      "raw_schema_version": "1"
+    },
+    "implementation": {
+      "catalog_tier": "d0c3d6c28086c15651dcd80c3eaafa893354f94bb7a550d8a97f7102251104e8",
+      "engine": "0957240416d71eed4e02d26e7dd0acc0aa3b69569ce35c46b6a2b1637e83fe04",
+      "model_tier": "903c683af72e36b63f00a2693f28db9a928b43b41b847af375988671a9d3d283",
+      "models": "4f462f76a5bfb1bb8b1e5dbc2842941d8f5de3faf2166822f15aab0f1f2e8630",
+      "raw_schema": "46544b7639016d2958a1466dd8254f2b25daa4751b2a5ca9bc0923d9f657d3cc",
+      "rules_tier": "8d649136368af25da63f95c6b66a9fed168ef376a99ede1ffece6c0fcab7c372",
+      "validation": "973d2ac6a0aae7e2517ff00d6c3e8b2e761a47b520fb008be5a0533c453f07ff"
+    },
+    "inputs": {
+      "brands_content_sha256": "1a456469fc7599ab9ec1b3d6cc3695aa987936f7d203f997c42a1bdf724e94d1",
+      "catalog_content_sha256": "5b548adf5128e6632391e3a6265b66a674c97e480e4a594378fa619eb4785bc6",
+      "raw_content_sha256": "e63c1c85a4c7cbe33281f4f46c6270d7ccdebb2a0975fbe96709a04286002304"
+    }
+  },
+  "raw_sha256": "b0577796ae9b7262fdd80e9f504dbb8b8591c901485bd0d6c4a6b590c27277cd",
+  "rejects_sha256": "636b9b19fc5449b1ef9ae58886534cb68e0318d7bcc71a3bded1934629b2bf7b",
+  "ruleset": "naive",
+  "run_id": "cb77480a00b7b599e9336fd7747cd66f2f11cb8be0686c670158fa63f05e63d4",
+  "schema": {
+    "drift_events": [],
+    "drift_status": "none",
+    "effective_content_sha256": "e63c1c85a4c7cbe33281f4f46c6270d7ccdebb2a0975fbe96709a04286002304",
+    "extra_fields": [],
+    "missing_required_fields": [],
+    "missing_value_counts": {
+      "row_id": 0,
+      "sku": 0,
+      "title": 0
+    },
+    "null_value_counts": {
+      "row_id": 0,
+      "sku": 0,
+      "title": 8
+    },
+    "passed": true,
+    "row_count": 1200
+  },
+  "schema_report_sha256": "04f428b95e8027d8de901ea92360b19816f6799155af2f03407ce340ad4b3404",
+  "tier_invalid": {
+    "model": 2
+  },
+  "total": 1200
+}

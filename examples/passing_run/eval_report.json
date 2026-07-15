@@ -1,0 +1,132 @@
+{
+  "attributes": {
+    "material": {
+      "accuracy": 1.0,
+      "correct": 182,
+      "total": 182
+    },
+    "pack_count": {
+      "accuracy": 1.0,
+      "correct": 182,
+      "total": 182
+    },
+    "position": {
+      "accuracy": 1.0,
+      "correct": 182,
+      "total": 182
+    },
+    "size": {
+      "accuracy": 0.989,
+      "correct": 180,
+      "total": 182
+    }
+  },
+  "batch_id": "be2e6a97bfc082e898d47a2bcdcc50d0808d38aa571328be29bb5b06305ff510",
+  "categories": {
+    "Apparel": {
+      "f1": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "support": 36
+    },
+    "Braking": {
+      "f1": 0.9783,
+      "precision": 0.9783,
+      "recall": 0.9783,
+      "support": 46
+    },
+    "Electrical": {
+      "f1": 0.963,
+      "precision": 1.0,
+      "recall": 0.9286,
+      "support": 28
+    },
+    "Filtration": {
+      "f1": 0.9855,
+      "precision": 0.9714,
+      "recall": 1.0,
+      "support": 34
+    },
+    "Visibility": {
+      "f1": 0.987,
+      "precision": 0.9744,
+      "recall": 1.0,
+      "support": 38
+    }
+  },
+  "category_accuracy": 0.9835,
+  "classification": {
+    "category_correct": 179,
+    "conditional_category_accuracy": 0.9835,
+    "decoded_expected_rows": 182,
+    "end_to_end_category_accuracy": 0.9835,
+    "expected_decode_rows": 182
+  },
+  "conditional_category_accuracy": 0.9835,
+  "confusion_pairs": [
+    [
+      "Braking/Rotors",
+      "Filtration/Air Filters",
+      1
+    ],
+    [
+      "Electrical/Ignition Coils",
+      "Visibility/Wiper Blades",
+      1
+    ],
+    [
+      "Electrical/Spark Plugs",
+      "Braking/Calipers",
+      1
+    ]
+  ],
+  "counts": {
+    "abstained": 26,
+    "decoded": 1145,
+    "errored": 0,
+    "quarantined": 29,
+    "total": 1200
+  },
+  "coverage": 0.9542,
+  "decoded_sha256": "490aebdb9268dd96b60ee98501856767370632cb916cfb4e18dc24a88d9d262d",
+  "evaluation_input_sha256": "965b0c8a4de65bfc316789afdb10bf47e735105570d97587b1c3c89e808f1627",
+  "evaluation_version": "2",
+  "flag": {
+    "fn": 11,
+    "fp": 1,
+    "precision": 0.975,
+    "recall": 0.78,
+    "tp": 39
+  },
+  "gold": {
+    "abstained": 0,
+    "correct_abstains": 18,
+    "decoded": 182,
+    "quarantined": 0,
+    "total": 200,
+    "unexpected_decodes": 0
+  },
+  "gold_sha256": "23dd325182fdc34a8c0b13f6edbc95b0b9374b1f009696d495ca8f7502c51b63",
+  "manifest_sha256": "d5ca5149eb05ca1a8bcd778c889a78f856a59f23e8a6c61d9a258de8baaad8f6",
+  "rejects_sha256": "636b9b19fc5449b1ef9ae58886534cb68e0318d7bcc71a3bded1934629b2bf7b",
+  "tier_invalid": {
+    "model": 2
+  },
+  "tiers": {
+    "catalog": {
+      "gold_correct": 51,
+      "gold_rows": 51,
+      "rows": 60
+    },
+    "model": {
+      "gold_correct": 13,
+      "gold_rows": 18,
+      "rows": 18
+    },
+    "rules": {
+      "gold_correct": 103,
+      "gold_rows": 113,
+      "rows": 1067
+    }
+  }
+}

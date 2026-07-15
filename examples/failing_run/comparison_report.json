@@ -1,0 +1,1736 @@
+{
+  "added_row_ids": [],
+  "baseline_artifacts": {
+    "decoded_sha256": "490aebdb9268dd96b60ee98501856767370632cb916cfb4e18dc24a88d9d262d",
+    "rejects_sha256": "636b9b19fc5449b1ef9ae58886534cb68e0318d7bcc71a3bded1934629b2bf7b"
+  },
+  "baseline_batch_id": "be2e6a97bfc082e898d47a2bcdcc50d0808d38aa571328be29bb5b06305ff510",
+  "change_types": {
+    "classification": 0,
+    "tier": 0,
+    "winter_flag": 130
+  },
+  "changed_rows": [
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0013"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTOR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTOR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0021"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0027"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPERS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPERS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0032"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0036"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0065"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=OIL FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=OIL FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0068"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0069"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=IGNITION COIL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=IGNITION COIL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0087"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVES;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVES"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0121"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTORS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTORS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0139"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0147"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HIVIS JACKET;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HIVIS JACKET"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0172"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HEADLIGHT BULBS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HEADLIGHT BULBS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0194"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0215"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0225"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTORS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTORS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0234"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=COVERALL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=COVERALL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0242"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTOR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTOR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0267"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HDLGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HDLGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0268"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0283"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=IGN COIL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=IGN COIL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0291"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTORS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTORS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0292"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0300"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0302"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0304"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0306"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0307"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER BLADE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER BLADE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0316"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0321"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=IGNITION COIL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=IGNITION COIL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0323"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER BLADES;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER BLADES"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0345"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0346"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0349"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0350"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0388"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HI VIS JACKET;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HI VIS JACKET"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0389"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0422"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0444"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0464"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER BLADE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER BLADE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0475"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0477"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0484"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0488"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0489"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUGS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUGS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0494"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0507"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HDLGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HDLGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0516"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HDLGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HDLGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0551"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0555"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=IGN COIL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=IGN COIL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0558"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0560"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0561"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0573"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=COVERALLS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=COVERALLS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0577"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0584"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=IGN COIL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=IGN COIL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0586"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPERS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPERS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0596"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=OIL FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=OIL FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0610"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0613"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0619"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0621"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0627"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUGS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUGS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0632"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0634"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPERS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPERS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0641"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPK PLG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPK PLG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0659"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0670"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0681"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0683"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUGS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUGS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0699"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0700"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=OIL FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=OIL FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0711"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=OIL FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=OIL FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0720"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HEADLIGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0721"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=COVERALL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=COVERALL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0734"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVES;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVES"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0738"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0754"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0769"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUGS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUGS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0771"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=COVERALLS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=COVERALLS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0785"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTOR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTOR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0792"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0816"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HDLGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HDLGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0825"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CABIN FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CABIN FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0838"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HI-VIS JACKET;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HI-VIS JACKET"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0844"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPK PLG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPK PLG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0846"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPERS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPERS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0851"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0854"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0855"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HDLGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HDLGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0872"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=OIL FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=OIL FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0873"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0880"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0901"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUGS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUGS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0902"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=IGN COIL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=IGN COIL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0908"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0918"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0928"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0930"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTOR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTOR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0933"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=IGN COIL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=IGN COIL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0940"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=CALIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=CALIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0941"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTOR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTOR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0946"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPK PLG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPK PLG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0949"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0965"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0967"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0971"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0975"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0987"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPK PLG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPK PLG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R0989"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1002"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1017"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1025"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRAKE PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1032"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPK PLG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPK PLG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1052"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1064"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER BLADE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER BLADE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1068"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1078"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1094"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1115"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=GLOVE;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=GLOVE"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1119"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FILTER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FILTER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1159"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=AIR FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=AIR FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1172"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=ROTORS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=ROTORS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1174"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=SPARK PLUG;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=SPARK PLUG"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1180"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=BRK PADS;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=BRK PADS"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1184"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=WIPER;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=WIPER"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1190"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=HDLGHT BULB;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=HDLGHT BULB"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1192"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=COVERALL;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=COVERALL"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1196"
+    },
+    {
+      "changes": {
+        "evidence": {
+          "after": "rules:brand=NORVIKKA;kw=OIL FLTR;flag=brand-default",
+          "before": "rules:brand=NORVIKKA;kw=OIL FLTR"
+        },
+        "is_winter_rated": {
+          "after": true,
+          "before": false
+        }
+      },
+      "row_id": "R1197"
+    }
+  ],
+  "comparison_sha256": "d47797e2d6e1e3dbf05e762c7305614e3f48ea9ce1468a50fa9f0e4ae4ef5265",
+  "comparison_version": "1",
+  "counts": {
+    "added": 0,
+    "changed": 130,
+    "removed": 0,
+    "unchanged": 1070
+  },
+  "current_artifacts": {
+    "decoded_sha256": "c4a8254a0e8b67498131a3f8d28e5a71c30baac3067d5fed5860e24fe0897f27",
+    "rejects_sha256": "636b9b19fc5449b1ef9ae58886534cb68e0318d7bcc71a3bded1934629b2bf7b"
+  },
+  "current_batch_id": "7df926c41b5df5e44a7b8b07d6682984b434487f65daa973045378a2224e1e09",
+  "field_change_counts": {
+    "evidence": 130,
+    "is_winter_rated": 130
+  },
+  "partition": {
+    "baseline_identity": 1200,
+    "baseline_total": 1200,
+    "current_identity": 1200,
+    "current_total": 1200,
+    "union_identity": 1200,
+    "union_total": 1200
+  },
+  "removed_row_ids": [],
+  "transitions": {
+    "abstained_to_abstained": 26,
+    "decoded_to_decoded": 1145,
+    "quarantined_to_quarantined": 29
+  }
+}

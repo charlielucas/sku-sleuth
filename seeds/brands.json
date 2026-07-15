@@ -1,0 +1,14 @@
+[
+  {"name": "VORNELLE", "aliases": ["VORNELLE", "VRN"], "kind": "parts"},
+  {"name": "KRELVONNE", "aliases": ["KRELVONNE", "KRV"], "kind": "parts"},
+  {"name": "BRONTEXA", "aliases": ["BRONTEXA", "BTX"], "kind": "parts"},
+  {"name": "QUORVYN", "aliases": ["QUORVYN", "QVN"], "kind": "parts"},
+  {"name": "MALTRION", "aliases": ["MALTRION", "MLT"], "kind": "parts"},
+  {"name": "VESKARRA", "aliases": ["VESKARRA", "VSK"], "kind": "parts"},
+  {"name": "KADRIMO", "aliases": ["KADRIMO", "KDR"], "kind": "parts"},
+  {"name": "NORVIKKA", "aliases": ["NORVIKKA", "NVK"], "kind": "both", "winter_bias": true},
+  {"name": "BRUMHALT", "aliases": ["BRUMHALT", "BRH"], "kind": "apparel"},
+  {"name": "WRENFOLD", "aliases": ["WRENFOLD", "WRF"], "kind": "apparel"},
+  {"name": "GRUVATEX", "aliases": ["GRUVATEX", "GVX"], "kind": "apparel"},
+  {"name": "TELVOSSA", "aliases": ["TELVOSSA", "TLV"], "kind": "apparel"}
+]

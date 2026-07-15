@@ -1,0 +1,37 @@
+{
+  "batch_id": "be2e6a97bfc082e898d47a2bcdcc50d0808d38aa571328be29bb5b06305ff510",
+  "decision_id": "5a44d79dfed9c55a0259e6b6bde282d296f2f64ac07bf33fca61fd5e1e540da4",
+  "decision_recorded": true,
+  "inserted": 1145,
+  "lineage": {
+    "added": 1145,
+    "changed": 0,
+    "comparison_sha256": "07a543ba4954f1e7796b9434615cdc4fa9be36d24c78aa799dbd11f18ba8106a",
+    "parent_batch_id": null,
+    "removed": 0,
+    "unchanged": 0
+  },
+  "reason": null,
+  "reconciliation": {
+    "batch_id": "be2e6a97bfc082e898d47a2bcdcc50d0808d38aa571328be29bb5b06305ff510",
+    "database_rowset_sha256": "e3b5d40c6fa58ae6044e3269e8b424ad2b95ee4f666a411cd174555540e812af",
+    "database_schema_mutations": {},
+    "expected_rows": 1145,
+    "metadata_mutation_reasons": [],
+    "missing_row_ids": [],
+    "passed": true,
+    "payload_mutation_row_ids": [],
+    "provenance_mutation_row_ids": [],
+    "reason": null,
+    "source_rowset_sha256": "aaf7e2a4aabe5ef8b899c7d1f797dd2fa92fdf0d1de7250153ca2f5935e1ae9b",
+    "unexpected_row_ids": [],
+    "verified_rows": 1145
+  },
+  "run_id": "6024c03e70acdf318b57c6b8d2cfaddc599aae56dc3d1c62ad20707c59fa4197",
+  "schema_evidence": {
+    "decoded_extra_fields": [],
+    "raw_extra_fields": [],
+    "rejects_extra_fields": []
+  },
+  "status": "loaded"
+}

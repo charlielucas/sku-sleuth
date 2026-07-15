@@ -1,0 +1,8 @@
+{
+  "baseline_batch_id": "be2e6a97bfc082e898d47a2bcdcc50d0808d38aa571328be29bb5b06305ff510",
+  "batch_id": "7df926c41b5df5e44a7b8b07d6682984b434487f65daa973045378a2224e1e09",
+  "rows": 1200,
+  "run_id": "cb77480a00b7b599e9336fd7747cd66f2f11cb8be0686c670158fa63f05e63d4",
+  "scenario": "failing",
+  "seed": 42
+}

@@ -1,0 +1,40 @@
+name: ci
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - uses: astral-sh/setup-uv@11f9893b081a58869d3b5fccaea48c9e9e46f990 # v8.3.2
+        with:
+          python-version: "3.12"
+      - run: uv sync --frozen --group dev
+      - run: uv run --frozen ruff check .
+      - run: uv run --frozen ruff format --check .
+      - run: uv run --frozen pytest -q
+      - name: pipeline must pass its own gate
+        run: uv run --frozen python scripts/run_pipeline.py --scenario passing --workdir ci_out/passing
+      - name: failing scenario must fail loudly
+        run: |
+          if uv run --frozen python scripts/run_pipeline.py --scenario failing --workdir ci_out/failing; then
+            echo "expected nonzero exit" && exit 1
+          fi
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        if: always()
+        with:
+          name: pipeline-reports
+          path: |
+            ci_out/**/schema_report.json
+            ci_out/**/manifest.json
+            ci_out/**/eval_report.*
+            ci_out/**/gate_report.json
+            ci_out/**/comparison_report.json
+            ci_out/**/lineage_comparison_report.json
+            ci_out/**/load_result.json
+            ci_out/**/lineage_report.json
+            ci_out/**/reconciliation_report.json
+            ci_out/**/run_meta.json

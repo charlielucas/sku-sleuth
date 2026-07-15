@@ -1,0 +1,2113 @@
+{
+  "R0001": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:BTX-5012",
+    "is_winter_rated": false,
+    "row_id": "R0001",
+    "sku": "BTX-5012",
+    "subcategory": "Ignition Coils",
+    "tier": "catalog"
+  },
+  "R0002": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "catalog:BTX-9928",
+    "is_winter_rated": false,
+    "row_id": "R0002",
+    "sku": "BTX-9928",
+    "subcategory": "Calipers",
+    "tier": "catalog"
+  },
+  "R0003": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:KRV-6514",
+    "is_winter_rated": false,
+    "row_id": "R0003",
+    "sku": "KRV-6514",
+    "subcategory": "Oil Filters",
+    "tier": "catalog"
+  },
+  "R0004": {
+    "attributes": {
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": true,
+    "row_id": "R0004",
+    "sku": "AXK-6925",
+    "subcategory": "Hi-Vis Jackets",
+    "tier": "model"
+  },
+  "R0005": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:VRN-6977",
+    "is_winter_rated": false,
+    "row_id": "R0005",
+    "sku": "VRN-6977",
+    "subcategory": "Air Filters",
+    "tier": "catalog"
+  },
+  "R0006": {
+    "attributes": {
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0006",
+    "sku": "CRU-6313",
+    "subcategory": "Rotors",
+    "tier": "model"
+  },
+  "R0007": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:VRN-8517",
+    "is_winter_rated": false,
+    "row_id": "R0007",
+    "sku": "VRN-8517",
+    "subcategory": "Oil Filters",
+    "tier": "catalog"
+  },
+  "R0008": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:MLT-3266",
+    "is_winter_rated": false,
+    "row_id": "R0008",
+    "sku": "MLT-3266",
+    "subcategory": "Air Filters",
+    "tier": "catalog"
+  },
+  "R0009": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:VSK-8668",
+    "is_winter_rated": false,
+    "row_id": "R0009",
+    "sku": "VSK-8668",
+    "subcategory": "Ignition Coils",
+    "tier": "catalog"
+  },
+  "R0010": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "catalog:BTX-5315",
+    "is_winter_rated": false,
+    "row_id": "R0010",
+    "sku": "BTX-5315",
+    "subcategory": "Rotors",
+    "tier": "catalog"
+  },
+  "R0011": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:KRV-9689",
+    "is_winter_rated": false,
+    "row_id": "R0011",
+    "sku": "KRV-9689",
+    "subcategory": "Air Filters",
+    "tier": "catalog"
+  },
+  "R0012": {
+    "attributes": {
+      "material": "ceramic",
+      "position": "front"
+    },
+    "category": "Braking",
+    "evidence": "catalog:KDR-3103",
+    "is_winter_rated": false,
+    "row_id": "R0012",
+    "sku": "KDR-3103",
+    "subcategory": "Brake Pads",
+    "tier": "catalog"
+  },
+  "R0013": {
+    "attributes": {
+      "pack_count": 12
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=NORVIKKA;kw=WIPER",
+    "is_winter_rated": false,
+    "row_id": "R0013",
+    "sku": "NVK-5061",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0014": {
+    "attributes": {
+      "material": "ceramic",
+      "pack_count": 8,
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "catalog:BTX-8744",
+    "is_winter_rated": false,
+    "row_id": "R0014",
+    "sku": "BTX-8744",
+    "subcategory": "Brake Pads",
+    "tier": "catalog"
+  },
+  "R0015": {
+    "attributes": {
+      "material": "rubber"
+    },
+    "category": "Visibility",
+    "evidence": "catalog:KDR-4116",
+    "is_winter_rated": true,
+    "row_id": "R0015",
+    "sku": "KDR-4116",
+    "subcategory": "Wiper Blades",
+    "tier": "catalog"
+  },
+  "R0016": {
+    "attributes": {
+      "size": "S"
+    },
+    "category": "Apparel",
+    "evidence": "catalog:WRF-4872",
+    "is_winter_rated": true,
+    "row_id": "R0016",
+    "sku": "WRF-4872",
+    "subcategory": "Gloves",
+    "tier": "catalog"
+  },
+  "R0017": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0017",
+    "sku": "CRU-8973",
+    "subcategory": "Air Filters",
+    "tier": "model"
+  },
+  "R0018": {
+    "attributes": {
+      "material": "cotton"
+    },
+    "category": "Apparel",
+    "evidence": "catalog:WRF-2122",
+    "is_winter_rated": true,
+    "row_id": "R0018",
+    "sku": "WRF-2122",
+    "subcategory": "Coveralls",
+    "tier": "catalog"
+  },
+  "R0019": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:QVN-4346",
+    "is_winter_rated": false,
+    "row_id": "R0019",
+    "sku": "QVN-4346",
+    "subcategory": "Air Filters",
+    "tier": "catalog"
+  },
+  "R0020": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "catalog:KDR-2638",
+    "is_winter_rated": false,
+    "row_id": "R0020",
+    "sku": "KDR-2638",
+    "subcategory": "Headlight Bulbs",
+    "tier": "catalog"
+  },
+  "R0021": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=ROTOR",
+    "is_winter_rated": false,
+    "row_id": "R0021",
+    "sku": "NVK-9666",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0022": {
+    "bucket": "abstained"
+  },
+  "R0023": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:BTX-3143",
+    "is_winter_rated": false,
+    "row_id": "R0023",
+    "sku": "BTX-3143",
+    "subcategory": "Oil Filters",
+    "tier": "catalog"
+  },
+  "R0024": {
+    "attributes": {
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0024",
+    "sku": "BEL-3426",
+    "subcategory": "Hi-Vis Jackets",
+    "tier": "model"
+  },
+  "R0025": {
+    "bucket": "quarantined"
+  },
+  "R0026": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "catalog:VSK-5065",
+    "is_winter_rated": false,
+    "row_id": "R0026",
+    "sku": "VSK-5065",
+    "subcategory": "Headlight Bulbs",
+    "tier": "catalog"
+  },
+  "R0027": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=NORVIKKA;kw=CABIN FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0027",
+    "sku": "NVK-4728",
+    "subcategory": "Cabin Filters",
+    "tier": "rules"
+  },
+  "R0028": {
+    "attributes": {
+      "pack_count": 6
+    },
+    "category": "Electrical",
+    "evidence": "catalog:QVN-3925",
+    "is_winter_rated": false,
+    "row_id": "R0028",
+    "sku": "QVN-3925",
+    "subcategory": "Spark Plugs",
+    "tier": "catalog"
+  },
+  "R0029": {
+    "attributes": {
+      "pack_count": 2
+    },
+    "category": "Electrical",
+    "evidence": "catalog:VSK-8144",
+    "is_winter_rated": false,
+    "row_id": "R0029",
+    "sku": "VSK-8144",
+    "subcategory": "Spark Plugs",
+    "tier": "catalog"
+  },
+  "R0031": {
+    "attributes": {
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "catalog:QVN-9375",
+    "is_winter_rated": false,
+    "row_id": "R0031",
+    "sku": "QVN-9375",
+    "subcategory": "Calipers",
+    "tier": "catalog"
+  },
+  "R0032": {
+    "attributes": {
+      "position": "front"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=CALIPERS",
+    "is_winter_rated": false,
+    "row_id": "R0032",
+    "sku": "NVK-1757",
+    "subcategory": "Calipers",
+    "tier": "rules"
+  },
+  "R0033": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:KRV-1090",
+    "is_winter_rated": false,
+    "row_id": "R0033",
+    "sku": "KRV-1090",
+    "subcategory": "Air Filters",
+    "tier": "catalog"
+  },
+  "R0034": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:KDR-9702",
+    "is_winter_rated": false,
+    "row_id": "R0034",
+    "sku": "KDR-9702",
+    "subcategory": "Spark Plugs",
+    "tier": "catalog"
+  },
+  "R0035": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=VORNELLE;kw=AIR FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0035",
+    "sku": "VRN-8777",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0036": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=NORVIKKA;kw=CABIN FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0036",
+    "sku": "NVK-6502",
+    "subcategory": "Cabin Filters",
+    "tier": "rules"
+  },
+  "R0037": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=VORNELLE;kw=AIR FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0037",
+    "sku": "VRN-4388",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0038": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=BRONTEXA;kw=AIR FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0038",
+    "sku": "BTX-5892",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0039": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:VRN-6507",
+    "is_winter_rated": false,
+    "row_id": "R0039",
+    "sku": "VRN-6507",
+    "subcategory": "Oil Filters",
+    "tier": "catalog"
+  },
+  "R0041": {
+    "bucket": "quarantined"
+  },
+  "R0042": {
+    "attributes": {
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "catalog:VRN-8619",
+    "is_winter_rated": false,
+    "row_id": "R0042",
+    "sku": "VRN-8619",
+    "subcategory": "Calipers",
+    "tier": "catalog"
+  },
+  "R0043": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:BTX-7149",
+    "is_winter_rated": false,
+    "row_id": "R0043",
+    "sku": "BTX-7149",
+    "subcategory": "Oil Filters",
+    "tier": "catalog"
+  },
+  "R0046": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:VSK-6325",
+    "is_winter_rated": false,
+    "row_id": "R0046",
+    "sku": "VSK-6325",
+    "subcategory": "Spark Plugs",
+    "tier": "catalog"
+  },
+  "R0047": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:MLT-9004",
+    "is_winter_rated": false,
+    "row_id": "R0047",
+    "sku": "MLT-9004",
+    "subcategory": "Spark Plugs",
+    "tier": "catalog"
+  },
+  "R0048": {
+    "attributes": {
+      "position": "right"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=MALTRION;kw=CALIPER",
+    "is_winter_rated": false,
+    "row_id": "R0048",
+    "sku": "MLT-9698",
+    "subcategory": "Calipers",
+    "tier": "rules"
+  },
+  "R0049": {
+    "attributes": {
+      "pack_count": 12
+    },
+    "category": "Braking",
+    "evidence": "catalog:KRV-9595",
+    "is_winter_rated": false,
+    "row_id": "R0049",
+    "sku": "KRV-9595",
+    "subcategory": "Brake Pads",
+    "tier": "catalog"
+  },
+  "R0050": {
+    "attributes": {
+      "material": "ceramic",
+      "pack_count": 8
+    },
+    "category": "Braking",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0050",
+    "sku": "BEL-5658",
+    "subcategory": "Brake Pads",
+    "tier": "model"
+  },
+  "R0051": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:BTX-5978",
+    "is_winter_rated": false,
+    "row_id": "R0051",
+    "sku": "BTX-5978",
+    "subcategory": "Ignition Coils",
+    "tier": "catalog"
+  },
+  "R0052": {
+    "attributes": {
+      "pack_count": 12
+    },
+    "category": "Electrical",
+    "evidence": "rules:brand=VORNELLE;kw=SPK PLG",
+    "is_winter_rated": false,
+    "row_id": "R0052",
+    "sku": "VRN-8025",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0053": {
+    "attributes": {
+      "pack_count": 8,
+      "position": "rear"
+    },
+    "category": "Visibility",
+    "evidence": "catalog:KRV-8699",
+    "is_winter_rated": true,
+    "row_id": "R0053",
+    "sku": "KRV-8699",
+    "subcategory": "Wiper Blades",
+    "tier": "catalog"
+  },
+  "R0054": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "catalog:MLT-3441",
+    "is_winter_rated": false,
+    "row_id": "R0054",
+    "sku": "MLT-3441",
+    "subcategory": "Headlight Bulbs",
+    "tier": "catalog"
+  },
+  "R0055": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:VRN-7594",
+    "is_winter_rated": false,
+    "row_id": "R0055",
+    "sku": "VRN-7594",
+    "subcategory": "Cabin Filters",
+    "tier": "catalog"
+  },
+  "R0056": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "catalog:MLT-5415",
+    "is_winter_rated": false,
+    "row_id": "R0056",
+    "sku": "MLT-5415",
+    "subcategory": "Brake Pads",
+    "tier": "catalog"
+  },
+  "R0057": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:VRN-8700",
+    "is_winter_rated": false,
+    "row_id": "R0057",
+    "sku": "VRN-8700",
+    "subcategory": "Ignition Coils",
+    "tier": "catalog"
+  },
+  "R0058": {
+    "attributes": {
+      "size": "L"
+    },
+    "category": "Apparel",
+    "evidence": "catalog:WRF-6296",
+    "is_winter_rated": true,
+    "row_id": "R0058",
+    "sku": "WRF-6296",
+    "subcategory": "Hi-Vis Jackets",
+    "tier": "catalog"
+  },
+  "R0059": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=VORNELLE;kw=AIR FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0059",
+    "sku": "VRN-1845",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0060": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "catalog:MLT-6091",
+    "is_winter_rated": false,
+    "row_id": "R0060",
+    "sku": "MLT-6091",
+    "subcategory": "Ignition Coils",
+    "tier": "catalog"
+  },
+  "R0061": {
+    "attributes": {
+      "material": "rubber",
+      "pack_count": 12,
+      "position": "right"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=NORVIKKA;kw=WIPER BLADE;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0061",
+    "sku": "NVK-9327",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0062": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=VORNELLE;kw=OIL FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0062",
+    "sku": "VRN-8316",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0064": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "catalog:BTX-6439",
+    "is_winter_rated": false,
+    "row_id": "R0064",
+    "sku": "BTX-6439",
+    "subcategory": "Rotors",
+    "tier": "catalog"
+  },
+  "R0065": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=NORVIKKA;kw=CABIN FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0065",
+    "sku": "NVK-7512",
+    "subcategory": "Cabin Filters",
+    "tier": "rules"
+  },
+  "R0066": {
+    "attributes": {
+      "pack_count": 6
+    },
+    "category": "Visibility",
+    "evidence": "catalog:BTX-4727",
+    "is_winter_rated": false,
+    "row_id": "R0066",
+    "sku": "BTX-4727",
+    "subcategory": "Headlight Bulbs",
+    "tier": "catalog"
+  },
+  "R0067": {
+    "attributes": {
+      "material": "semi-metallic",
+      "position": "left"
+    },
+    "category": "Braking",
+    "evidence": "catalog:QVN-3950",
+    "is_winter_rated": false,
+    "row_id": "R0067",
+    "sku": "QVN-3950",
+    "subcategory": "Brake Pads",
+    "tier": "catalog"
+  },
+  "R0068": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=NORVIKKA;kw=OIL FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0068",
+    "sku": "NVK-8622",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0069": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=NORVIKKA;kw=CABIN FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0069",
+    "sku": "NVK-7302",
+    "subcategory": "Cabin Filters",
+    "tier": "rules"
+  },
+  "R0071": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "catalog:KRV-8222",
+    "is_winter_rated": false,
+    "row_id": "R0071",
+    "sku": "KRV-8222",
+    "subcategory": "Wiper Blades",
+    "tier": "catalog"
+  },
+  "R0072": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "catalog:QVN-3695",
+    "is_winter_rated": false,
+    "row_id": "R0072",
+    "sku": "QVN-3695",
+    "subcategory": "Headlight Bulbs",
+    "tier": "catalog"
+  },
+  "R0073": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=MALTRION;kw=BRK PADS",
+    "is_winter_rated": false,
+    "row_id": "R0073",
+    "sku": "MLT-6992",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0074": {
+    "attributes": {
+      "material": "leather",
+      "pack_count": 2,
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVE;flag=THERMAL",
+    "is_winter_rated": true,
+    "row_id": "R0074",
+    "sku": "NVK-2035",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0076": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "catalog:MLT-2627",
+    "is_winter_rated": false,
+    "row_id": "R0076",
+    "sku": "MLT-2627",
+    "subcategory": "Cabin Filters",
+    "tier": "catalog"
+  },
+  "R0077": {
+    "attributes": {
+      "position": "front"
+    },
+    "category": "Braking",
+    "evidence": "catalog:VRN-1828",
+    "is_winter_rated": false,
+    "row_id": "R0077",
+    "sku": "VRN-1828",
+    "subcategory": "Rotors",
+    "tier": "catalog"
+  },
+  "R0078": {
+    "bucket": "quarantined"
+  },
+  "R0079": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=VESKARRA;kw=BRK PADS",
+    "is_winter_rated": false,
+    "row_id": "R0079",
+    "sku": "VSK-9408",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0080": {
+    "attributes": {
+      "pack_count": 8
+    },
+    "category": "Electrical",
+    "evidence": "rules:brand=VORNELLE;kw=SPARK PLUGS",
+    "is_winter_rated": false,
+    "row_id": "R0080",
+    "sku": "VRN-7580",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0081": {
+    "attributes": {
+      "position": "left"
+    },
+    "category": "Braking",
+    "evidence": "catalog:QVN-8433",
+    "is_winter_rated": false,
+    "row_id": "R0081",
+    "sku": "QVN-8433",
+    "subcategory": "Rotors",
+    "tier": "catalog"
+  },
+  "R0082": {
+    "attributes": {
+      "material": "leather",
+      "pack_count": 8,
+      "size": "L"
+    },
+    "category": "Apparel",
+    "evidence": "catalog:TLV-8770",
+    "is_winter_rated": false,
+    "row_id": "R0082",
+    "sku": "TLV-8770",
+    "subcategory": "Gloves",
+    "tier": "catalog"
+  },
+  "R0083": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=KADRIMO;kw=OIL FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0083",
+    "sku": "KDR-7929",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0084": {
+    "attributes": {
+      "pack_count": 6,
+      "position": "left"
+    },
+    "category": "Visibility",
+    "evidence": "catalog:MLT-8030",
+    "is_winter_rated": false,
+    "row_id": "R0084",
+    "sku": "MLT-8030",
+    "subcategory": "Wiper Blades",
+    "tier": "catalog"
+  },
+  "R0086": {
+    "attributes": {
+      "pack_count": 8
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=BRONTEXA;kw=HEADLIGHT BULB",
+    "is_winter_rated": false,
+    "row_id": "R0086",
+    "sku": "BTX-8957",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0087": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=NORVIKKA;kw=IGNITION COIL",
+    "is_winter_rated": false,
+    "row_id": "R0087",
+    "sku": "NVK-7475",
+    "subcategory": "Ignition Coils",
+    "tier": "rules"
+  },
+  "R0088": {
+    "attributes": {
+      "material": "semi-metallic",
+      "position": "right"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=VORNELLE;kw=BRK PADS",
+    "is_winter_rated": false,
+    "row_id": "R0088",
+    "sku": "VRN-2180",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0089": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=KADRIMO;kw=AIR FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0089",
+    "sku": "KDR-6321",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0090": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=KADRIMO;kw=IGNITION COIL",
+    "is_winter_rated": false,
+    "row_id": "R0090",
+    "sku": "KDR-6083",
+    "subcategory": "Ignition Coils",
+    "tier": "rules"
+  },
+  "R0091": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=KRELVONNE;kw=AIR FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0091",
+    "sku": "KRV-3399",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0092": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=VORNELLE;kw=SPK PLG",
+    "is_winter_rated": false,
+    "row_id": "R0092",
+    "sku": "VRN-6295",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0093": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=QUORVYN;kw=IGNITION COIL",
+    "is_winter_rated": false,
+    "row_id": "R0093",
+    "sku": "QVN-6085",
+    "subcategory": "Ignition Coils",
+    "tier": "rules"
+  },
+  "R0094": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=BRONTEXA;kw=SPARK PLUG",
+    "is_winter_rated": false,
+    "row_id": "R0094",
+    "sku": "BTX-4084",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0096": {
+    "attributes": {
+      "pack_count": 2
+    },
+    "category": "Visibility",
+    "evidence": "catalog:BTX-7333",
+    "is_winter_rated": false,
+    "row_id": "R0096",
+    "sku": "BTX-7333",
+    "subcategory": "Wiper Blades",
+    "tier": "catalog"
+  },
+  "R0097": {
+    "attributes": {
+      "pack_count": 12
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=VESKARRA;kw=WIPER;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0097",
+    "sku": "VSK-6381",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0098": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=VORNELLE;kw=OIL FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0098",
+    "sku": "VRN-3253",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0099": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=KRELVONNE;kw=IGNITION COIL",
+    "is_winter_rated": false,
+    "row_id": "R0099",
+    "sku": "KRV-3712",
+    "subcategory": "Ignition Coils",
+    "tier": "rules"
+  },
+  "R0100": {
+    "attributes": {
+      "pack_count": 8
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=VORNELLE;kw=HDLGHT BULB",
+    "is_winter_rated": false,
+    "row_id": "R0100",
+    "sku": "VRN-4178",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0101": {
+    "attributes": {
+      "material": "leather",
+      "pack_count": 8
+    },
+    "category": "Apparel",
+    "evidence": "catalog:WRF-9452",
+    "is_winter_rated": true,
+    "row_id": "R0101",
+    "sku": "WRF-9452",
+    "subcategory": "Gloves",
+    "tier": "catalog"
+  },
+  "R0102": {
+    "bucket": "quarantined"
+  },
+  "R0103": {
+    "attributes": {
+      "material": "leather",
+      "pack_count": 6
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVES;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0103",
+    "sku": "NVK-8685",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0104": {
+    "attributes": {
+      "material": "ceramic",
+      "pack_count": 8
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=VESKARRA;kw=BRAKE PADS",
+    "is_winter_rated": false,
+    "row_id": "R0104",
+    "sku": "VSK-9443",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0105": {
+    "attributes": {
+      "material": "semi-metallic",
+      "pack_count": 8,
+      "position": "front"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=QUORVYN;kw=BRK PADS",
+    "is_winter_rated": false,
+    "row_id": "R0105",
+    "sku": "QVN-7116",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0106": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=BRONTEXA;kw=OIL FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0106",
+    "sku": "BTX-6546",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0107": {
+    "attributes": {
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "catalog:VRN-1686",
+    "is_winter_rated": false,
+    "row_id": "R0107",
+    "sku": "VRN-1686",
+    "subcategory": "Rotors",
+    "tier": "catalog"
+  },
+  "R0108": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=BRONTEXA;kw=AIR FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0108",
+    "sku": "BTX-6438",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0109": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=VORNELLE;kw=ROTOR",
+    "is_winter_rated": false,
+    "row_id": "R0109",
+    "sku": "VRN-5369",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0110": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=VESKARRA;kw=OIL FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0110",
+    "sku": "VSK-8272",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0111": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=BRONTEXA;kw=HDLGHT BULB",
+    "is_winter_rated": false,
+    "row_id": "R0111",
+    "sku": "BTX-6952",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0112": {
+    "attributes": {
+      "material": "ceramic",
+      "pack_count": 12
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=KADRIMO;kw=BRK PADS",
+    "is_winter_rated": false,
+    "row_id": "R0112",
+    "sku": "KDR-8371",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0113": {
+    "attributes": {
+      "position": "right"
+    },
+    "category": "Braking",
+    "evidence": "catalog:KDR-2929",
+    "is_winter_rated": false,
+    "row_id": "R0113",
+    "sku": "KDR-2929",
+    "subcategory": "Calipers",
+    "tier": "catalog"
+  },
+  "R0114": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=KADRIMO;kw=ROTOR",
+    "is_winter_rated": false,
+    "row_id": "R0114",
+    "sku": "KDR-8292",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0115": {
+    "attributes": {
+      "position": "front"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=KRELVONNE;kw=ROTOR",
+    "is_winter_rated": false,
+    "row_id": "R0115",
+    "sku": "KRV-4292",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0116": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=VESKARRA;kw=BRK PADS",
+    "is_winter_rated": false,
+    "row_id": "R0116",
+    "sku": "VSK-2208",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0117": {
+    "attributes": {
+      "pack_count": 12
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=KRELVONNE;kw=HDLGHT BULB",
+    "is_winter_rated": false,
+    "row_id": "R0117",
+    "sku": "KRV-1907",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0118": {
+    "attributes": {
+      "size": "L"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVES;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0118",
+    "sku": "NVK-2530",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0119": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=BRONTEXA;kw=SPK PLG",
+    "is_winter_rated": false,
+    "row_id": "R0119",
+    "sku": "BTX-5336",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0121": {
+    "attributes": {
+      "material": "nitrile"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVES",
+    "is_winter_rated": false,
+    "row_id": "R0121",
+    "sku": "NVK-9437",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0122": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=MALTRION;kw=IGN COIL",
+    "is_winter_rated": false,
+    "row_id": "R0122",
+    "sku": "MLT-3616",
+    "subcategory": "Ignition Coils",
+    "tier": "rules"
+  },
+  "R0124": {
+    "attributes": {
+      "material": "semi-metallic"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=KRELVONNE;kw=BRAKE PADS",
+    "is_winter_rated": false,
+    "row_id": "R0124",
+    "sku": "KRV-1838",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0126": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=QUORVYN;kw=ROTOR",
+    "is_winter_rated": false,
+    "row_id": "R0126",
+    "sku": "QVN-5902",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0128": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=VESKARRA;kw=ROTORS",
+    "is_winter_rated": false,
+    "row_id": "R0128",
+    "sku": "VSK-1517",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0129": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=VORNELLE;kw=SPK PLG",
+    "is_winter_rated": false,
+    "row_id": "R0129",
+    "sku": "VRN-2020",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0130": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=QUORVYN;kw=ROTORS",
+    "is_winter_rated": false,
+    "row_id": "R0130",
+    "sku": "QVN-5331",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0131": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=MALTRION;kw=HDLGHT BULB",
+    "is_winter_rated": false,
+    "row_id": "R0131",
+    "sku": "MLT-8861",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0132": {
+    "attributes": {
+      "pack_count": 2
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=KRELVONNE;kw=HDLGHT BULB",
+    "is_winter_rated": false,
+    "row_id": "R0132",
+    "sku": "KRV-6674",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0133": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=KADRIMO;kw=OIL FILTER",
+    "is_winter_rated": false,
+    "row_id": "R0133",
+    "sku": "KDR-4920",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0134": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0134",
+    "sku": "AXK-8793",
+    "subcategory": "Air Filters",
+    "tier": "model"
+  },
+  "R0135": {
+    "attributes": {
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=BRONTEXA;kw=CALIPER",
+    "is_winter_rated": false,
+    "row_id": "R0135",
+    "sku": "BTX-1595",
+    "subcategory": "Calipers",
+    "tier": "rules"
+  },
+  "R0136": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=KADRIMO;kw=OIL FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0136",
+    "sku": "KDR-6489",
+    "subcategory": "Oil Filters",
+    "tier": "rules"
+  },
+  "R0137": {
+    "attributes": {
+      "position": "left"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=NORVIKKA;kw=WIPER BLADES;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0137",
+    "sku": "NVK-4164",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0138": {
+    "attributes": {
+      "size": "L"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=BRUMHALT;kw=COVERALL;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0138",
+    "sku": "BRH-5947",
+    "subcategory": "Coveralls",
+    "tier": "rules"
+  },
+  "R0139": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=ROTORS",
+    "is_winter_rated": false,
+    "row_id": "R0139",
+    "sku": "NVK-5833",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0140": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=VORNELLE;kw=WIPER",
+    "is_winter_rated": false,
+    "row_id": "R0140",
+    "sku": "VRN-2341",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0141": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=KRELVONNE;kw=SPARK PLUGS",
+    "is_winter_rated": false,
+    "row_id": "R0141",
+    "sku": "KRV-8239",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0142": {
+    "attributes": {
+      "position": "right"
+    },
+    "category": "Braking",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0142",
+    "sku": "BEL-6049",
+    "subcategory": "Rotors",
+    "tier": "model"
+  },
+  "R0143": {
+    "attributes": {
+      "pack_count": 8
+    },
+    "category": "Electrical",
+    "evidence": "rules:brand=BRONTEXA;kw=SPARK PLUGS",
+    "is_winter_rated": false,
+    "row_id": "R0143",
+    "sku": "BTX-1519",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0144": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=VESKARRA;kw=AIR FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0144",
+    "sku": "VSK-9835",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0145": {
+    "attributes": {
+      "material": "leather",
+      "size": "XL"
+    },
+    "category": "Apparel",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0145",
+    "sku": "CRU-5055",
+    "subcategory": "Gloves",
+    "tier": "model"
+  },
+  "R0146": {
+    "attributes": {
+      "pack_count": 12
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=BRONTEXA;kw=HDLGHT BULB",
+    "is_winter_rated": false,
+    "row_id": "R0146",
+    "sku": "BTX-1550",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0147": {
+    "attributes": {
+      "material": "semi-metallic"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=BRAKE PADS",
+    "is_winter_rated": false,
+    "row_id": "R0147",
+    "sku": "NVK-4881",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0148": {
+    "attributes": {},
+    "category": "Electrical",
+    "evidence": "rules:brand=KRELVONNE;kw=IGNITION COIL",
+    "is_winter_rated": false,
+    "row_id": "R0148",
+    "sku": "KRV-7999",
+    "subcategory": "Ignition Coils",
+    "tier": "rules"
+  },
+  "R0149": {
+    "attributes": {},
+    "category": "Filtration",
+    "evidence": "rules:brand=KRELVONNE;kw=AIR FLTR",
+    "is_winter_rated": false,
+    "row_id": "R0149",
+    "sku": "KRV-4012",
+    "subcategory": "Air Filters",
+    "tier": "rules"
+  },
+  "R0150": {
+    "attributes": {
+      "material": "ceramic",
+      "pack_count": 6,
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=VESKARRA;kw=BRAKE PADS",
+    "is_winter_rated": false,
+    "row_id": "R0150",
+    "sku": "VSK-8369",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0151": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=MALTRION;kw=HEADLIGHT BULBS",
+    "is_winter_rated": false,
+    "row_id": "R0151",
+    "sku": "MLT-6455",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0152": {
+    "attributes": {
+      "position": "left"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=MALTRION;kw=WIPER BLADE",
+    "is_winter_rated": false,
+    "row_id": "R0152",
+    "sku": "MLT-9743",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0153": {
+    "attributes": {
+      "pack_count": 8
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=QUORVYN;kw=HEADLIGHT BULBS",
+    "is_winter_rated": false,
+    "row_id": "R0153",
+    "sku": "QVN-1749",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0172": {
+    "attributes": {
+      "size": "S"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=HIVIS JACKET",
+    "is_winter_rated": false,
+    "row_id": "R0172",
+    "sku": "NVK-2615",
+    "subcategory": "Hi-Vis Jackets",
+    "tier": "rules"
+  },
+  "R0194": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=NORVIKKA;kw=HEADLIGHT BULBS",
+    "is_winter_rated": false,
+    "row_id": "R0194",
+    "sku": "NVK-4921",
+    "subcategory": "Headlight Bulbs",
+    "tier": "rules"
+  },
+  "R0195": {
+    "bucket": "quarantined"
+  },
+  "R0209": {
+    "attributes": {
+      "material": "nitrile",
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=BRUMHALT;kw=GLOVE;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0209",
+    "sku": "BRH-3430",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0214": {
+    "bucket": "quarantined"
+  },
+  "R0215": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=BRAKE PADS",
+    "is_winter_rated": false,
+    "row_id": "R0215",
+    "sku": "NVK-4813",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0218": {
+    "attributes": {
+      "pack_count": 4,
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVE;flag=THERMAL",
+    "is_winter_rated": true,
+    "row_id": "R0218",
+    "sku": "NVK-2188",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0222": {
+    "bucket": "quarantined"
+  },
+  "R0225": {
+    "attributes": {
+      "pack_count": 8
+    },
+    "category": "Electrical",
+    "evidence": "rules:brand=NORVIKKA;kw=SPARK PLUG",
+    "is_winter_rated": false,
+    "row_id": "R0225",
+    "sku": "NVK-9043",
+    "subcategory": "Spark Plugs",
+    "tier": "rules"
+  },
+  "R0229": {
+    "attributes": {
+      "pack_count": 8,
+      "size": "M"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=GRUVATEX;kw=GLOVES;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0229",
+    "sku": "GVX-5225",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0231": {
+    "bucket": "quarantined"
+  },
+  "R0234": {
+    "attributes": {
+      "position": "front"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=ROTORS",
+    "is_winter_rated": false,
+    "row_id": "R0234",
+    "sku": "NVK-3846",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0235": {
+    "attributes": {
+      "material": "nitrile",
+      "size": "M"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=WRENFOLD;kw=GLOVE;flag=THERMAL",
+    "is_winter_rated": true,
+    "row_id": "R0235",
+    "sku": "WRF-3909",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0236": {
+    "bucket": "quarantined"
+  },
+  "R0239": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=VORNELLE;kw=WIPER BLADES;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0239",
+    "sku": "VRN-5278",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0240": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0240",
+    "sku": "CRU-1417",
+    "subcategory": "Wiper Blades",
+    "tier": "model"
+  },
+  "R0241": {
+    "attributes": {
+      "pack_count": 12,
+      "size": "XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVES;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0241",
+    "sku": "NVK-6873",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0242": {
+    "attributes": {
+      "size": "M"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=COVERALL",
+    "is_winter_rated": false,
+    "row_id": "R0242",
+    "sku": "NVK-6031",
+    "subcategory": "Coveralls",
+    "tier": "rules"
+  },
+  "R0248": {
+    "bucket": "quarantined"
+  },
+  "R0251": {
+    "attributes": {
+      "material": "leather",
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=GRUVATEX;kw=GLOVES;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0251",
+    "sku": "GVX-8875",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0266": {
+    "attributes": {
+      "position": "right"
+    },
+    "category": "Braking",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0266",
+    "sku": "BEL-9747",
+    "subcategory": "Brake Pads",
+    "tier": "model"
+  },
+  "R0276": {
+    "attributes": {
+      "material": "cotton",
+      "size": "S"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=GRUVATEX;kw=COVERALLS;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0276",
+    "sku": "GVX-3916",
+    "subcategory": "Coveralls",
+    "tier": "rules"
+  },
+  "R0280": {
+    "attributes": {
+      "pack_count": 4,
+      "position": "left"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=KRELVONNE;kw=WIPER BLADE;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0280",
+    "sku": "KRV-1891",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0295": {
+    "bucket": "quarantined"
+  },
+  "R0307": {
+    "attributes": {
+      "pack_count": 2,
+      "size": "XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVE",
+    "is_winter_rated": false,
+    "row_id": "R0307",
+    "sku": "NVK-9871",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0313": {
+    "attributes": {
+      "position": "front"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=BRONTEXA;kw=WIPER BLADES;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0313",
+    "sku": "BTX-6914",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0322": {
+    "attributes": {
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=GRUVATEX;kw=GLOVE;flag=INSULATED",
+    "is_winter_rated": true,
+    "row_id": "R0322",
+    "sku": "GVX-5454",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0335": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0335",
+    "sku": "AXK-1955",
+    "subcategory": "Calipers",
+    "tier": "model"
+  },
+  "R0345": {
+    "attributes": {
+      "position": "right"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=NORVIKKA;kw=WIPER BLADES",
+    "is_winter_rated": false,
+    "row_id": "R0345",
+    "sku": "NVK-4825",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0346": {
+    "attributes": {
+      "material": "nitrile",
+      "size": "XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVE",
+    "is_winter_rated": false,
+    "row_id": "R0346",
+    "sku": "NVK-4424",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0361": {
+    "bucket": "quarantined"
+  },
+  "R0363": {
+    "attributes": {
+      "material": "nitrile",
+      "pack_count": 2,
+      "size": "M"
+    },
+    "category": "Apparel",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": true,
+    "row_id": "R0363",
+    "sku": "BEL-3906",
+    "subcategory": "Gloves",
+    "tier": "model"
+  },
+  "R0366": {
+    "attributes": {
+      "material": "rubber",
+      "position": "front"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=MALTRION;kw=WIPER BLADES;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0366",
+    "sku": "MLT-7783",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0373": {
+    "attributes": {
+      "material": "ceramic"
+    },
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=BRAKE PADS;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0373",
+    "sku": "NVK-4154",
+    "subcategory": "Brake Pads",
+    "tier": "rules"
+  },
+  "R0379": {
+    "attributes": {
+      "pack_count": 12
+    },
+    "category": "Electrical",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0379",
+    "sku": "CRU-8063",
+    "subcategory": "Spark Plugs",
+    "tier": "model"
+  },
+  "R0381": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=BRONTEXA;kw=WIPER BLADE;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0381",
+    "sku": "BTX-1003",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0382": {
+    "attributes": {},
+    "category": "Visibility",
+    "evidence": "rules:brand=QUORVYN;kw=WIPER BLADES;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0382",
+    "sku": "QVN-8122",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0383": {
+    "attributes": {
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=BRUMHALT;kw=GLOVES;flag=INSULATED",
+    "is_winter_rated": true,
+    "row_id": "R0383",
+    "sku": "BRH-6885",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0385": {
+    "attributes": {
+      "pack_count": 2,
+      "size": "XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=GRUVATEX;kw=GLOVE;flag=THERMAL",
+    "is_winter_rated": true,
+    "row_id": "R0385",
+    "sku": "GVX-3224",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0389": {
+    "attributes": {
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=HI VIS JACKET",
+    "is_winter_rated": false,
+    "row_id": "R0389",
+    "sku": "NVK-5981",
+    "subcategory": "Hi-Vis Jackets",
+    "tier": "rules"
+  },
+  "R0392": {
+    "attributes": {
+      "pack_count": 8,
+      "position": "front"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=QUORVYN;kw=WIPER;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0392",
+    "sku": "QVN-5937",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0396": {
+    "attributes": {
+      "size": "M"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=GRUVATEX;kw=GLOVES;flag=THERMAL",
+    "is_winter_rated": true,
+    "row_id": "R0396",
+    "sku": "GVX-4018",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0397": {
+    "attributes": {
+      "pack_count": 2
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=QUORVYN;kw=WIPER BLADE;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0397",
+    "sku": "QVN-6450",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0405": {
+    "attributes": {
+      "pack_count": 6
+    },
+    "category": "Visibility",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0405",
+    "sku": "AXK-7586",
+    "subcategory": "Headlight Bulbs",
+    "tier": "model"
+  },
+  "R0419": {
+    "bucket": "abstained"
+  },
+  "R0422": {
+    "attributes": {
+      "material": "nitrile",
+      "pack_count": 2,
+      "size": "XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=NORVIKKA;kw=GLOVE",
+    "is_winter_rated": false,
+    "row_id": "R0422",
+    "sku": "NVK-3929",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0426": {
+    "attributes": {
+      "material": "leather",
+      "pack_count": 6,
+      "size": "XL"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=GRUVATEX;kw=GLOVE;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0426",
+    "sku": "GVX-4361",
+    "subcategory": "Gloves",
+    "tier": "rules"
+  },
+  "R0437": {
+    "attributes": {
+      "material": "rubber",
+      "pack_count": 12,
+      "position": "rear"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=QUORVYN;kw=WIPER BLADES;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0437",
+    "sku": "QVN-7750",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0439": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "rules:brand=NORVIKKA;kw=ROTOR;flag=WINTER",
+    "is_winter_rated": true,
+    "row_id": "R0439",
+    "sku": "NVK-4643",
+    "subcategory": "Rotors",
+    "tier": "rules"
+  },
+  "R0466": {
+    "attributes": {},
+    "category": "Apparel",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0466",
+    "sku": "AXK-5872",
+    "subcategory": "Coveralls",
+    "tier": "model"
+  },
+  "R0475": {
+    "attributes": {
+      "pack_count": 4,
+      "position": "front"
+    },
+    "category": "Visibility",
+    "evidence": "rules:brand=NORVIKKA;kw=WIPER BLADE",
+    "is_winter_rated": false,
+    "row_id": "R0475",
+    "sku": "NVK-6804",
+    "subcategory": "Wiper Blades",
+    "tier": "rules"
+  },
+  "R0480": {
+    "attributes": {},
+    "category": "Braking",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0480",
+    "sku": "BEL-4479",
+    "subcategory": "Rotors",
+    "tier": "model"
+  },
+  "R0481": {
+    "attributes": {
+      "material": "cotton",
+      "size": "L"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=BRUMHALT;kw=COVERALLS;flag=WNTR",
+    "is_winter_rated": true,
+    "row_id": "R0481",
+    "sku": "BRH-2737",
+    "subcategory": "Coveralls",
+    "tier": "rules"
+  },
+  "R0498": {
+    "attributes": {
+      "pack_count": 2,
+      "position": "rear"
+    },
+    "category": "Braking",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": true,
+    "row_id": "R0498",
+    "sku": "BEL-6878",
+    "subcategory": "Brake Pads",
+    "tier": "model"
+  },
+  "R0602": {
+    "attributes": {
+      "size": "2XL"
+    },
+    "category": "Apparel",
+    "evidence": "model:stub-fixture",
+    "is_winter_rated": false,
+    "row_id": "R0602",
+    "sku": "CRU-3967",
+    "subcategory": "Hi-Vis Jackets",
+    "tier": "model"
+  },
+  "R0604": {
+    "bucket": "abstained"
+  },
+  "R0620": {
+    "bucket": "abstained"
+  },
+  "R0690": {
+    "attributes": {
+      "size": "L"
+    },
+    "category": "Apparel",
+    "evidence": "rules:brand=BRUMHALT;kw=HI-VIS JACKET",
+    "is_winter_rated": false,
+    "row_id": "R0690",
+    "sku": "BRH-2683",
+    "subcategory": "Hi-Vis Jackets",
+    "tier": "rules"
+  },
+  "R0698": {
+    "bucket": "abstained"
+  },
+  "R0709": {
+    "bucket": "abstained"
+  }
+}

@@ -1,0 +1,10 @@
+# Illustrative demo defaults — not derived from any production system.
+# Sizing note: the gold set has ~50 flag positives, of which ~40 decode as
+# true positives (token-suppressed challenge rows are recall misses); one
+# false positive ≈ 0.975 precision, two ≈ 0.952 — 0.97 tolerates exactly
+# one FP and fails on two.
+flag_precision    = 0.97
+category_accuracy = 0.93
+coverage          = 0.80
+error_rows        = 0      # hard zero: unhandled exceptions block the batch
+quarantine_rate   = 0.10   # ceiling; quarantine is visible, not free

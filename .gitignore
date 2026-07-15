@@ -1,0 +1,10 @@
+.notes/
+__pycache__/
+*.pyc
+.venv/
+runs/
+ci_out/
+examples/**/*.db
+.pytest_cache/
+.ruff_cache/
+dist/

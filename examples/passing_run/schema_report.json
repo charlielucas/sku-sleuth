@@ -1,0 +1,34 @@
+{
+  "contract_sha256": "53b1c435387152f789389149ca206137c09589835d017e2919ac4395da4e3168",
+  "drift_events": [],
+  "drift_status": "none",
+  "duplicate_row_ids": [],
+  "effective_content_sha256": "e63c1c85a4c7cbe33281f4f46c6270d7ccdebb2a0975fbe96709a04286002304",
+  "extra_fields": [],
+  "failures": [],
+  "missing_required_fields": [],
+  "missing_value_counts": {
+    "row_id": 0,
+    "sku": 0,
+    "title": 0
+  },
+  "null_value_counts": {
+    "row_id": 0,
+    "sku": 0,
+    "title": 8
+  },
+  "observed_fields": [
+    "row_id",
+    "sku",
+    "title"
+  ],
+  "passed": true,
+  "raw_sha256": "b0577796ae9b7262fdd80e9f504dbb8b8591c901485bd0d6c4a6b590c27277cd",
+  "required_fields": [
+    "row_id",
+    "sku",
+    "title"
+  ],
+  "row_count": 1200,
+  "schema_version": "1"
+}

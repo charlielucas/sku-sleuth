@@ -1,0 +1,200 @@
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0001", "subcategory": "Ignition Coils", "title": "btx ignition coil btx-5012"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0002", "subcategory": "Calipers", "title": "BRONTEXA CALIPER BTX-9928"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "note": "'2YR WNTY' / 'WNTY 90D' is a warranty token, not winter evidence. WNTY does not match the winter token set, so is_winter_rated stays false and no winter FP is produced.", "row_id": "R0003", "subcategory": "Oil Filters", "title": "KRV OIL FLTR WNTY 90D"}
+{"attributes": {"size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0004", "subcategory": "Hi-Vis Jackets", "title": "AXKORT WINTER HI-VIS JACKET 2XL TLV-6925"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0005", "subcategory": "Air Filters", "title": "VRN AIR FLTR"}
+{"attributes": {"position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0006", "subcategory": "Rotors", "title": "CRUMANE REAR ROTORS"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0007", "subcategory": "Oil Filters", "title": "VRN OIL FILTER VRN-8517"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0008", "subcategory": "Air Filters", "title": "MALTRION AIR FILTER MLT-3266"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0009", "subcategory": "Ignition Coils", "title": "veskarra ignition coil new"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0010", "subcategory": "Rotors", "title": "brontexa rotors new"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0011", "subcategory": "Air Filters", "title": "Krelvonne Air Fltr New"}
+{"attributes": {"material": "ceramic", "position": "front"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0012", "subcategory": "Brake Pads", "title": "KADRIMO CERAMIC FRONT BRK PADS"}
+{"attributes": {"pack_count": 12}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "note": "NORVIKKA winter-bias row whose winter token was suppressed by the generator (winter truth, no WINTER/WNTR/INSULATED/THERMAL token). The evidence-based guarded ruleset cannot see the flag, so it is a recall miss -- the brand-bias trap surfaces through recall, never a brand-default guess. Capped at 10 such rows so true positives stay >= 33.", "row_id": "R0013", "subcategory": "Wiper Blades", "title": "nvk wiper 12-pk nvk-5061"}
+{"attributes": {"material": "ceramic", "pack_count": 8, "position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0014", "subcategory": "Brake Pads", "title": "btx ceramic rear brk pads 8-pk wnty 90d"}
+{"attributes": {"material": "rubber"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0015", "subcategory": "Wiper Blades", "title": "Kadrimo Rubber Winter Wiper Blade Bulk Kdr-4116"}
+{"attributes": {"size": "S"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0016", "subcategory": "Gloves", "title": "wrf thermal glove sz s"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0017", "subcategory": "Air Filters", "title": "Crumane Air Fltr Hd"}
+{"attributes": {"material": "cotton"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0018", "subcategory": "Coveralls", "title": "WRENFOLD COTTON WNTR COVERALL L WRF-2122"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0019", "subcategory": "Air Filters", "title": "Quorvyn Air Fltr"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0020", "subcategory": "Headlight Bulbs", "title": "Kdr Headlight Bulbs New"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "note": "Trap-brand (NVK-) non-winter row. The guarded ruleset correctly withholds the winter flag; the naive ruleset would brand-default NORVIKKA to winter=true (a false positive). Task 7 excludes all trap-brand SKUs from the catalog, so no catalog hit can shield this row -- the guarded-vs-naive precision gap is real.", "row_id": "R0021", "subcategory": "Rotors", "title": "NVK ROTOR PRO NVK-9666"}
+{"expect": "abstain", "note": "Fixture maps this out-of-catalog row to category='Exhaust'/'Mufflers' (structurally invalid). Validator rejects, pipeline abstains: gold stays expect='abstain'.", "row_id": "R0022", "title": "Crumane Rotor"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0023", "subcategory": "Oil Filters", "title": "brontexa oil fltr"}
+{"attributes": {"size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": false, "row_id": "R0024", "subcategory": "Hi-Vis Jackets", "title": "belvand hi-vis jacket size 2xl"}
+{"expect": "abstain", "row_id": "R0025", "title": "###"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0026", "subcategory": "Headlight Bulbs", "title": "VESKARRA HDLGHT BULB"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0027", "subcategory": "Cabin Filters", "title": "Nvk Cabin Filter Nvk-4728"}
+{"attributes": {"pack_count": 6}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0028", "subcategory": "Spark Plugs", "title": "QUORVYN SPARK PLUG (6-PK)"}
+{"attributes": {"pack_count": 2}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0029", "subcategory": "Spark Plugs", "title": "vsk spk plg 2-pk new"}
+{"attributes": {"position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0031", "subcategory": "Calipers", "title": "QUORVYN REAR CALIPERS"}
+{"attributes": {"position": "front"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0032", "subcategory": "Calipers", "title": "Nvk Frt Calipers"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0033", "subcategory": "Air Filters", "title": "Krelvonne Air Filter"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0034", "subcategory": "Spark Plugs", "title": "KADRIMO SPK PLG"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0035", "subcategory": "Air Filters", "title": "vornelle air filter"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0036", "subcategory": "Cabin Filters", "title": "norvikka cabin filter"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0037", "subcategory": "Air Filters", "title": "VORNELLE AIR FLTR"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0038", "subcategory": "Air Filters", "title": "Brontexa Air Fltr"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0039", "subcategory": "Oil Filters", "title": "VORNELLE OIL FLTR"}
+{"expect": "abstain", "row_id": "R0041", "title": "   "}
+{"attributes": {"position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0042", "subcategory": "Calipers", "title": "vornelle rear calipers"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0043", "subcategory": "Oil Filters", "title": "brontexa oil filter 2yr wnty new"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0046", "subcategory": "Spark Plugs", "title": "VSK SPARK PLUGS VSK-6325"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0047", "subcategory": "Spark Plugs", "title": "maltrion spark plugs"}
+{"attributes": {"position": "right"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0048", "subcategory": "Calipers", "title": "maltrion rh caliper mlt-9698"}
+{"attributes": {"pack_count": 12}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0049", "subcategory": "Brake Pads", "title": "krelvonne brake pads 12-pk"}
+{"attributes": {"material": "ceramic", "pack_count": 8}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0050", "subcategory": "Brake Pads", "title": "belvand ceramic brk pads set of 8 bulk btx-5658"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0051", "subcategory": "Ignition Coils", "title": "btx ignition coil"}
+{"attributes": {"pack_count": 12}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0052", "subcategory": "Spark Plugs", "title": "vornelle spk plg (12-pk)"}
+{"attributes": {"pack_count": 8, "position": "rear"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0053", "subcategory": "Wiper Blades", "title": "KRELVONNE REAR WINTER WIPER SET OF 8"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0054", "subcategory": "Headlight Bulbs", "title": "MALTRION HEADLIGHT BULBS 2YR WNTY"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0055", "subcategory": "Cabin Filters", "title": "VORNELLE CABIN FLTR"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0056", "subcategory": "Brake Pads", "title": "MALTRION BRAKE PADS"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0057", "subcategory": "Ignition Coils", "title": "vornelle ign coil pro"}
+{"attributes": {"size": "L"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0058", "subcategory": "Hi-Vis Jackets", "title": "wrf thermal hivis jacket sz l"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0059", "subcategory": "Air Filters", "title": "VRN AIR FILTER"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0060", "subcategory": "Ignition Coils", "title": "Maltrion Ign Coil 2Yr Wnty Mlt-6091"}
+{"attributes": {"material": "rubber", "pack_count": 12, "position": "right"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0061", "subcategory": "Wiper Blades", "title": "norvikka rubber rh winter wiper blade set of 12"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0062", "subcategory": "Oil Filters", "title": "VORNELLE OIL FLTR"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0064", "subcategory": "Rotors", "title": "brontexa rotor wnty 90d pro"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0065", "subcategory": "Cabin Filters", "title": "NORVIKKA CABIN FLTR"}
+{"attributes": {"pack_count": 6}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0066", "subcategory": "Headlight Bulbs", "title": "brontexa headlight bulb (6-pk) btx-4727"}
+{"attributes": {"material": "semi-metallic", "position": "left"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0067", "subcategory": "Brake Pads", "title": "Qvn Semi-Metallic Left Brk Pads"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0068", "subcategory": "Oil Filters", "title": "NORVIKKA OIL FILTER WNTY 90D NVK-8622"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0069", "subcategory": "Cabin Filters", "title": "norvikka cabin filter"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0071", "subcategory": "Wiper Blades", "title": "krv wiper blade new"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0072", "subcategory": "Headlight Bulbs", "title": "Quorvyn Headlight Bulb"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0073", "subcategory": "Brake Pads", "title": "MLT BRK PADS 2YR WNTY"}
+{"attributes": {"material": "leather", "pack_count": 2, "size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0074", "subcategory": "Gloves", "title": "norvikka leather thermal glove 2 pack sz 2xl hd"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0076", "subcategory": "Cabin Filters", "title": "maltrion cabin fltr"}
+{"attributes": {"position": "front"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0077", "subcategory": "Rotors", "title": "VORNELLE FRONT ROTORS"}
+{"expect": "abstain", "row_id": "R0078", "title": "###"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0079", "subcategory": "Brake Pads", "title": "VESKARRA BRK PADS VSK-9408"}
+{"attributes": {"pack_count": 8}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0080", "subcategory": "Spark Plugs", "title": "vornelle spark plugs 8 pack"}
+{"attributes": {"position": "left"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0081", "subcategory": "Rotors", "title": "Quorvyn Lh Rotors Pro"}
+{"attributes": {"material": "leather", "pack_count": 8, "size": "L"}, "category": "Apparel", "expect": "decode", "is_winter_rated": false, "row_id": "R0082", "subcategory": "Gloves", "title": "TLV LEATHER GLOVES (8-PK) SIZE L WNTY 90D"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0083", "subcategory": "Oil Filters", "title": "kadrimo oil filter"}
+{"attributes": {"pack_count": 6, "position": "left"}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0084", "subcategory": "Wiper Blades", "title": "maltrion left wiper set of 6 wnty 90d"}
+{"attributes": {"pack_count": 8}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0086", "subcategory": "Headlight Bulbs", "title": "BRONTEXA HEADLIGHT BULB SET OF 8"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0087", "subcategory": "Ignition Coils", "title": "norvikka ignition coil wnty 90d"}
+{"attributes": {"material": "semi-metallic", "position": "right"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0088", "subcategory": "Brake Pads", "title": "VORNELLE SEMI-METALLIC RIGHT BRK PADS 2YR WNTY"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0089", "subcategory": "Air Filters", "title": "kdr air fltr kdr-6321"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0090", "subcategory": "Ignition Coils", "title": "KADRIMO IGNITION COIL HD"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0091", "subcategory": "Air Filters", "title": "KRELVONNE AIR FILTER"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0092", "subcategory": "Spark Plugs", "title": "VORNELLE SPK PLG"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0093", "subcategory": "Ignition Coils", "title": "Quorvyn Ignition Coil Wnty 90D Hd"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0094", "subcategory": "Spark Plugs", "title": "BRONTEXA SPARK PLUG"}
+{"attributes": {"pack_count": 2}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0096", "subcategory": "Wiper Blades", "title": "BRONTEXA WIPER 2-PK BTX-7333"}
+{"attributes": {"pack_count": 12}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0097", "subcategory": "Wiper Blades", "title": "VESKARRA WINTER WIPER 12 PACK VSK-6381"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0098", "subcategory": "Oil Filters", "title": "VRN OIL FLTR HD"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0099", "subcategory": "Ignition Coils", "title": "krelvonne ignition coil krv-3712"}
+{"attributes": {"pack_count": 8}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0100", "subcategory": "Headlight Bulbs", "title": "VORNELLE HDLGHT BULB 8 PACK"}
+{"attributes": {"material": "leather", "pack_count": 8}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0101", "subcategory": "Gloves", "title": "WRENFOLD LEATHER INSULATED GLOVES 8-PK WRF-9452"}
+{"expect": "abstain", "row_id": "R0102", "title": ""}
+{"attributes": {"material": "leather", "pack_count": 6}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0103", "subcategory": "Gloves", "title": "Norvikka Leather Winter Gloves Set Of 6 Bulk Nvk-8685"}
+{"attributes": {"material": "ceramic", "pack_count": 8}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0104", "subcategory": "Brake Pads", "title": "VESKARRA CERAMIC BRAKE PADS SET OF 8 VSK-9443"}
+{"attributes": {"material": "semi-metallic", "pack_count": 8, "position": "front"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0105", "subcategory": "Brake Pads", "title": "QUORVYN SEMI-METALLIC FRONT BRK PADS (8-PK)"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0106", "subcategory": "Oil Filters", "title": "brontexa oil filter"}
+{"attributes": {"position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0107", "subcategory": "Rotors", "title": "vornelle rear rotor vrn-1686"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0108", "subcategory": "Air Filters", "title": "Brontexa Air Fltr"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0109", "subcategory": "Rotors", "title": "VORNELLE ROTOR 2YR WNTY"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0110", "subcategory": "Oil Filters", "title": "VESKARRA OIL FILTER"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0111", "subcategory": "Headlight Bulbs", "title": "BRONTEXA HDLGHT BULB BTX-6952"}
+{"attributes": {"material": "ceramic", "pack_count": 12}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0112", "subcategory": "Brake Pads", "title": "KADRIMO CERAMIC BRK PADS 12 PACK"}
+{"attributes": {"position": "right"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0113", "subcategory": "Calipers", "title": "kadrimo rh caliper"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0114", "subcategory": "Rotors", "title": "kadrimo rotor"}
+{"attributes": {"position": "front"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0115", "subcategory": "Rotors", "title": "KRELVONNE FRONT ROTOR WNTY 90D"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0116", "subcategory": "Brake Pads", "title": "VSK BRK PADS"}
+{"attributes": {"pack_count": 12}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0117", "subcategory": "Headlight Bulbs", "title": "KRELVONNE HDLGHT BULB 12-PK PRO"}
+{"attributes": {"size": "L"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0118", "subcategory": "Gloves", "title": "NORVIKKA WNTR GLOVES SZ L"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0119", "subcategory": "Spark Plugs", "title": "brontexa spk plg"}
+{"attributes": {"material": "nitrile"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0121", "subcategory": "Gloves", "title": "Norvikka Nitrile Gloves Nvk-9437"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0122", "subcategory": "Ignition Coils", "title": "maltrion ign coil bulk"}
+{"attributes": {"material": "semi-metallic"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0124", "subcategory": "Brake Pads", "title": "KRELVONNE SEMI-METALLIC BRAKE PADS"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0126", "subcategory": "Rotors", "title": "QUORVYN ROTOR"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0128", "subcategory": "Rotors", "title": "veskarra rotors"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0129", "subcategory": "Spark Plugs", "title": "Vornelle Spk Plg"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0130", "subcategory": "Rotors", "title": "QUORVYN ROTORS QVN-5331"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0131", "subcategory": "Headlight Bulbs", "title": "Maltrion Hdlght Bulb Bulk"}
+{"attributes": {"pack_count": 2}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0132", "subcategory": "Headlight Bulbs", "title": "KRELVONNE HDLGHT BULB SET OF 2"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0133", "subcategory": "Oil Filters", "title": "KDR OIL FILTER BULK"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "note": "Fixture (Task 10) deliberately mislabels this AXKORT ROTORS row as Filtration/Air Filters; truth is Braking/Rotors. Included as expect='decode' with TRUTH so the eval records an honest category miss from the model tier.", "row_id": "R0134", "subcategory": "Rotors", "title": "AXKORT ROTORS KRV-8793"}
+{"attributes": {"position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0135", "subcategory": "Calipers", "title": "brontexa rear caliper"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0136", "subcategory": "Oil Filters", "title": "Kadrimo Oil Fltr Bulk Kdr-6489"}
+{"attributes": {"position": "left"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0137", "subcategory": "Wiper Blades", "title": "Nvk Lh Wntr Wiper Blades Nvk-4164"}
+{"attributes": {"size": "L"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0138", "subcategory": "Coveralls", "title": "Brumhalt Winter Coverall L Brh-5947"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0139", "subcategory": "Rotors", "title": "Norvikka Rotors Pro"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0140", "subcategory": "Wiper Blades", "title": "VORNELLE WIPER HD VRN-2341"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0141", "subcategory": "Spark Plugs", "title": "krv spark plugs"}
+{"attributes": {"position": "right"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0142", "subcategory": "Rotors", "title": "BELVAND RH ROTOR"}
+{"attributes": {"pack_count": 8}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0143", "subcategory": "Spark Plugs", "title": "BRONTEXA SPARK PLUGS 8-PK"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0144", "subcategory": "Air Filters", "title": "VSK AIR FLTR"}
+{"attributes": {"material": "leather", "size": "XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": false, "row_id": "R0145", "subcategory": "Gloves", "title": "Crumane Leather Gloves Size Xl"}
+{"attributes": {"pack_count": 12}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0146", "subcategory": "Headlight Bulbs", "title": "BRONTEXA HDLGHT BULB (12-PK) BULK BTX-1550"}
+{"attributes": {"material": "semi-metallic"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0147", "subcategory": "Brake Pads", "title": "NORVIKKA SEMI-METALLIC BRAKE PADS"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0148", "subcategory": "Ignition Coils", "title": "Krelvonne Ignition Coil"}
+{"attributes": {}, "category": "Filtration", "expect": "decode", "is_winter_rated": false, "row_id": "R0149", "subcategory": "Air Filters", "title": "Krelvonne Air Fltr"}
+{"attributes": {"material": "ceramic", "pack_count": 6, "position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0150", "subcategory": "Brake Pads", "title": "veskarra ceramic rear brake pads (6-pk)"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0151", "subcategory": "Headlight Bulbs", "title": "MALTRION HEADLIGHT BULBS HD"}
+{"attributes": {"position": "left"}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0152", "subcategory": "Wiper Blades", "title": "MALTRION LH WIPER BLADE"}
+{"attributes": {"pack_count": 8}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0153", "subcategory": "Headlight Bulbs", "title": "QUORVYN HEADLIGHT BULBS 8-PK WNTY 90D QVN-1749"}
+{"attributes": {"size": "S"}, "category": "Apparel", "expect": "decode", "is_winter_rated": false, "row_id": "R0172", "subcategory": "Hi-Vis Jackets", "title": "Norvikka Hivis Jacket S"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0194", "subcategory": "Headlight Bulbs", "title": "norvikka headlight bulbs nvk-4921"}
+{"expect": "abstain", "row_id": "R0195", "title": ""}
+{"attributes": {"material": "nitrile", "size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0209", "subcategory": "Gloves", "title": "BRH NITRILE WNTR GLOVE SIZE 2XL"}
+{"expect": "abstain", "row_id": "R0214", "title": "   "}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": true, "row_id": "R0215", "subcategory": "Brake Pads", "title": "norvikka brake pads"}
+{"attributes": {"pack_count": 4, "size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0218", "subcategory": "Gloves", "title": "NORVIKKA THERMAL GLOVE SET OF 4 SIZE 2XL PRO"}
+{"expect": "abstain", "row_id": "R0222", "title": "###"}
+{"attributes": {"pack_count": 8}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0225", "subcategory": "Spark Plugs", "title": "nvk spark plug (8-pk)"}
+{"attributes": {"pack_count": 8, "size": "M"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0229", "subcategory": "Gloves", "title": "Gruvatex Winter Gloves 8 Pack M"}
+{"expect": "abstain", "row_id": "R0231", "title": "###"}
+{"attributes": {"position": "front"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0234", "subcategory": "Rotors", "title": "nvk front rotors"}
+{"attributes": {"material": "nitrile", "size": "M"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0235", "subcategory": "Gloves", "title": "wrenfold nitrile thermal glove size m new"}
+{"expect": "abstain", "row_id": "R0236", "title": ""}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0239", "subcategory": "Wiper Blades", "title": "VORNELLE WNTR WIPER BLADES PRO"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "note": "Fixture deliberately mislabels this CRUMANE IGN COIL as Visibility/Wiper Blades; truth is Electrical/Ignition Coils. Kept with TRUTH labels -- an honest category miss.", "row_id": "R0240", "subcategory": "Ignition Coils", "title": "CRUMANE IGN COIL"}
+{"attributes": {"pack_count": 12, "size": "XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0241", "subcategory": "Gloves", "title": "NORVIKKA WNTR GLOVES SET OF 12 SZ XL"}
+{"attributes": {"size": "M"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0242", "subcategory": "Coveralls", "title": "NORVIKKA COVERALL SIZE M"}
+{"expect": "abstain", "row_id": "R0248", "title": ""}
+{"attributes": {"material": "leather", "size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0251", "subcategory": "Gloves", "title": "gruvatex leather winter gloves 2xl hd"}
+{"attributes": {"position": "right"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0266", "subcategory": "Brake Pads", "title": "BELVAND RH BRAKE PADS PRO QVN-9747"}
+{"attributes": {"material": "cotton", "size": "S"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0276", "subcategory": "Coveralls", "title": "Gruvatex Cotton Winter Coveralls Size S"}
+{"attributes": {"pack_count": 4, "position": "left"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0280", "subcategory": "Wiper Blades", "title": "KRELVONNE LEFT WNTR WIPER BLADE (4-PK) KRV-1891"}
+{"expect": "abstain", "row_id": "R0295", "title": ""}
+{"attributes": {"pack_count": 2, "size": "XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0307", "subcategory": "Gloves", "title": "NORVIKKA GLOVE 2 PACK XL"}
+{"attributes": {"position": "front"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0313", "subcategory": "Wiper Blades", "title": "BRONTEXA FRT WNTR WIPER BLADES"}
+{"attributes": {"size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0322", "subcategory": "Gloves", "title": "GRUVATEX INSULATED GLOVE SZ 2XL GVX-5454"}
+{"attributes": {}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "note": "Fixture deliberately mislabels this AXKORT SPARK PLUG as Braking/Calipers; truth is Electrical/Spark Plugs. Kept with TRUTH labels -- an honest category miss.", "row_id": "R0335", "subcategory": "Spark Plugs", "title": "AXKORT SPARK PLUG"}
+{"attributes": {"position": "right"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0345", "subcategory": "Wiper Blades", "title": "nvk right wiper blades nvk-4825"}
+{"attributes": {"material": "nitrile", "size": "XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0346", "subcategory": "Gloves", "title": "NORVIKKA NITRILE GLOVE XL"}
+{"expect": "abstain", "row_id": "R0361", "title": "?"}
+{"attributes": {"material": "nitrile", "pack_count": 2, "size": "M"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0363", "subcategory": "Gloves", "title": "BELVAND NITRILE INSULATED GLOVES SET OF 2 SIZE M"}
+{"attributes": {"material": "rubber", "position": "front"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0366", "subcategory": "Wiper Blades", "title": "mlt rubber front wntr wiper blades"}
+{"attributes": {"material": "ceramic"}, "category": "Braking", "expect": "decode", "is_winter_rated": true, "row_id": "R0373", "subcategory": "Brake Pads", "title": "NORVIKKA CERAMIC WNTR BRAKE PADS NVK-4154"}
+{"attributes": {"pack_count": 12}, "category": "Electrical", "expect": "decode", "is_winter_rated": false, "row_id": "R0379", "subcategory": "Spark Plugs", "title": "CRUMANE SPARK PLUG SET OF 12"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0381", "subcategory": "Wiper Blades", "title": "brontexa winter wiper blade"}
+{"attributes": {}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0382", "subcategory": "Wiper Blades", "title": "QUORVYN WNTR WIPER BLADES"}
+{"attributes": {"size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0383", "subcategory": "Gloves", "title": "BRH INSULATED GLOVES SZ 2XL"}
+{"attributes": {"pack_count": 2, "size": "XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0385", "subcategory": "Gloves", "title": "Gvx Thermal Glove 2 Pack Xl Bulk"}
+{"attributes": {"size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0389", "subcategory": "Hi-Vis Jackets", "title": "NORVIKKA HI VIS JACKET 2XL HD"}
+{"attributes": {"pack_count": 8, "position": "front"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0392", "subcategory": "Wiper Blades", "title": "quorvyn frt winter wiper 8 pack qvn-5937"}
+{"attributes": {"size": "M"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0396", "subcategory": "Gloves", "title": "GRUVATEX THERMAL GLOVES M"}
+{"attributes": {"pack_count": 2}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0397", "subcategory": "Wiper Blades", "title": "QUORVYN WNTR WIPER BLADE 2-PK"}
+{"attributes": {"pack_count": 6}, "category": "Visibility", "expect": "decode", "is_winter_rated": false, "row_id": "R0405", "subcategory": "Headlight Bulbs", "title": "Axkort Hdlght Bulb 6-Pk Mlt-7586"}
+{"expect": "abstain", "note": "Fixture maps this out-of-catalog row to category='Exhaust' (outside the taxonomy). The validator rejects it, the pipeline abstains, so gold keeps expect='abstain' -- a decode expectation could never be satisfied.", "row_id": "R0419", "title": "belvand hdlght bulb set of 2 new"}
+{"attributes": {"material": "nitrile", "pack_count": 2, "size": "XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0422", "subcategory": "Gloves", "title": "NORVIKKA NITRILE GLOVE (2-PK) XL PRO"}
+{"attributes": {"material": "leather", "pack_count": 6, "size": "XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "row_id": "R0426", "subcategory": "Gloves", "title": "Gruvatex Leather Winter Glove Set Of 6 Sz Xl"}
+{"attributes": {"material": "rubber", "pack_count": 12, "position": "rear"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0437", "subcategory": "Wiper Blades", "title": "QUORVYN RUBBER REAR WINTER WIPER BLADES 12-PK"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": true, "row_id": "R0439", "subcategory": "Rotors", "title": "NVK WINTER ROTOR PRO"}
+{"attributes": {}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "note": "Fixture (Task 10) flipped this AXKORT WNTR COVERALL to is_winter_rated=false; truth is winter=true. Gold keeps the TRUTH (true). The model tier decodes it winter=false, so this row is the deliberate recall miss (false negative) in the flag story.", "row_id": "R0466", "subcategory": "Coveralls", "title": "AXKORT WNTR COVERALL"}
+{"attributes": {"pack_count": 4, "position": "front"}, "category": "Visibility", "expect": "decode", "is_winter_rated": true, "row_id": "R0475", "subcategory": "Wiper Blades", "title": "norvikka frt wiper blade 4 pack nvk-6804"}
+{"attributes": {}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "row_id": "R0480", "subcategory": "Rotors", "title": "BELVAND ROTORS"}
+{"attributes": {"material": "cotton"}, "category": "Apparel", "expect": "decode", "is_winter_rated": true, "note": "Trailing bare 'L' on 'BRUMHALT COTTON WNTR COVERALLS L' is a crate code, not a size: generator truth carries no size, so gold omits attributes.size. The shipped rules read the 'L' as size='L' -- a designed, documented attribute miss the eval must surface. WNTR is genuine winter evidence, so is_winter_rated stays true.", "row_id": "R0481", "subcategory": "Coveralls", "title": "BRUMHALT COTTON WNTR COVERALLS L"}
+{"attributes": {"pack_count": 2, "position": "rear"}, "category": "Braking", "expect": "decode", "is_winter_rated": false, "note": "Fixture (Task 10) flipped this BELVAND REAR BRAKE PADS 2-PK to is_winter_rated=true; truth is winter=false. Gold keeps the TRUTH (false). The model decodes it winter=true, so this is the SINGLE tolerated flag false positive (~0.975 precision >= 0.97). No other gold row may produce a winter FP under the guarded ruleset.", "row_id": "R0498", "subcategory": "Brake Pads", "title": "belvand rear brake pads 2-pk vsk-6878"}
+{"attributes": {"size": "2XL"}, "category": "Apparel", "expect": "decode", "is_winter_rated": false, "row_id": "R0602", "subcategory": "Hi-Vis Jackets", "title": "crumane hivis jacket 2xl tlv-3967"}
+{"expect": "abstain", "row_id": "R0604", "title": "CRUMANE CERAMIC LEFT BRK PADS MLT-9292"}
+{"expect": "abstain", "row_id": "R0620", "title": "crumane cabin fltr wnty 90d"}
+{"attributes": {}, "category": "Apparel", "expect": "decode", "is_winter_rated": false, "note": "Trailing bare 'l' on 'brh hi-vis jacket l' is a crate code, not a size: truth has no size, so gold omits attributes.size (rules will wrongly read size='L'). No winter token, so is_winter_rated stays false.", "row_id": "R0690", "subcategory": "Hi-Vis Jackets", "title": "brh hi-vis jacket l"}
+{"expect": "abstain", "row_id": "R0698", "title": "belvand right rotors mlt-9497"}
+{"expect": "abstain", "row_id": "R0709", "title": "belvand headlight bulbs krv-3337"}
